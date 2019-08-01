@@ -1,0 +1,4 @@
+#Wed Jul 17 17:28:25 CST 2019
+base.0=/Users/mac/Desktop/AndroidStudioProjects/flutter_doubanmovie/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
